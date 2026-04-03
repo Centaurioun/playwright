@@ -76,7 +76,7 @@
     "concurrently": "^6.2.1",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.0",
-    "electron": "19.0.11",
+    "electron": "39.8.4",
     "electron-to-chromium": "^1.4.212",
     "enquirer": "^2.3.6",
     "esbuild": "^0.15.6",
@@ -95,7 +95,7 @@
     "socksv5": "0.0.6",
     "ssim.js": "^3.5.0",
     "typescript": "^4.9.3",
-    "vite": "^3.2.1",
+    "vite": "^5.4.21",
     "ws": "^8.5.0",
     "xml2js": "^0.4.23",
     "yaml": "^1.10.2"
